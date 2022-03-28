@@ -32,7 +32,7 @@ header{
     background-color: #303030;
     color: white;
     /* padding-top: 10%; */
-    background:url(../Portfolio/imagenes/una-taza-de-javascript.png) center center fixed ;
+    background:url(./Portfolio/imagenes/una-taza-de-javascript.png) center center fixed ;
     background-size: cover;
 }
 .caja-central{
@@ -96,7 +96,7 @@ header{
     flex-direction: column;
     align-items: center;
     color: #F2F2F2;
-    background:url(../Portfolio/imagenes/1640105284-objetos-javascript.jpg) center center fixed;
+    background:url(./Portfolio/imagenes/1640105284-objetos-javascript.jpg) center center fixed;
     background-size:cover;
 }
 .proyectos{
